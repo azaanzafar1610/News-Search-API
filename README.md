@@ -4,9 +4,10 @@
 
 
 
-# Live Demo 
-
-
+# Installation
+- 1 - Clone repo https://github.com/azaanzafar1610/News-Search-API
+- 2 - Run the index.html file in the repo on your normal web browser
+- 3 - Search for your favorite news!
 
 # Tech Stack
 - JavaScript
