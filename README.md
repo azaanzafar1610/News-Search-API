@@ -10,7 +10,7 @@
 - 3 - Search for your favorite news!
 
 # Tech Stack
-- JavaScript
+- JavaScript, HTML/CSS
 # Other    
 - API integration (https://newsapi.org/) 
 
